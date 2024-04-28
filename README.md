@@ -1,5 +1,7 @@
 This repo contains the data and code (minimal demo) for PARDEN. 
+
 Paper:
+
 Blogpost:
 
 PARDEN_data/ contains the benign and harmful datasets genearted by different models. The generation of harmful dataset is explained in detail in the paper, using both GCG[1] and prompt injection. 
