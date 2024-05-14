@@ -1,6 +1,6 @@
 This repo contains the data and code (minimal demo) for PARDEN. 
 
-Paper:
+Paper: https://arxiv.org/abs/2405.07932
 
 Blogpost:
 
