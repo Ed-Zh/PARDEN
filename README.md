@@ -1,4 +1,5 @@
-This repo contains the data and code (minimal demo) for PARDEN. 
+This repo contains the data and code (minimal demo) for our paper (accepted at ICML 2024): PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition
+ 
 
 Paper: https://arxiv.org/abs/2405.07932
 
